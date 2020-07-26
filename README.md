@@ -36,7 +36,7 @@ Untuk pengguna Windows bisa menemukannya di  C:\User\YourUser\.android\debug.key
 
 ### Code LAB Build APK <br>
 Untuk mulai melakukan proses build APK, Anda dapat mengikuti langkah berikut: <br>
-1. Buka kembali proyek kosong yang telah kita buat sebelumnya. <br>
+1. Buka kembali proyek kosong yang telah kita buat sebelumnya, kemudian klik build Dan pilih Bundle's APK. <br>
 ![Alt Text](https://github.com/adam033/Build-APK/blob/master/Screenshot%20(237).png) <br>
 2. Apabila sudah terinstall maka akan muncul di bawah kanan dan klik locate untuk mengetahui lokasi file nya. <br>
 ![Alt Text](https://github.com/adam033/Build-APK/blob/master/Screenshot%20(238).png) <br>
