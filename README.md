@@ -42,7 +42,8 @@ Untuk mulai melakukan proses build APK, Anda dapat mengikuti langkah berikut: <b
 ![Alt Text](https://github.com/adam033/Build-APK/blob/master/Screenshot%20(238).png) <br>
 3. Ini adalah tampilan penyimpanan di folder kita.
 ![Alt Text](https://github.com/adam033/Build-APK/blob/master/Screenshot%20(239).png) <br>
-4. 
+4. Pindahkan ke folder APK dan Run di emulator kita.
+
 
 
 
